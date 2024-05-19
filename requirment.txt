@@ -1,0 +1,8 @@
+pip install socket
+pip install sys
+pip install time
+pip install queue
+pip install colorama
+pip install threading
+pip install requests
+pip install argparse
