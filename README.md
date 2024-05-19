@@ -17,11 +17,11 @@ pip install argparse
 usage:
 python3 port_scanner.py -d 192.168.58.1 -s 1 -e 65535 -t 15 -o out.txt
 
--d : target (example.com / 192.168.25.15)
--s : starting port (0)
--e : ending port (65535)
--t : thread value (2-20)
--o : output file (out.txt)
+-d : target (example.com / 192.168.25.15) \n
+-s : starting port (0) \n
+-e : ending port (65535) \n
+-t : thread value (2-20) \n
+-o : output file (out.txt) \n
                                                                                           --kidnapshadow
 
 
