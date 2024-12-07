@@ -6,7 +6,7 @@ also we use socat connection and we use time for print current scanning time
 
 and colorama for color and argparse for help description.
 
-#Installation:
+# Installation:
 
 sudo git clone https://github.com/kidnapshadow-sidharth/pyportscan.git
 
