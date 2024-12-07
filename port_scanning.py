@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import socket, sys
 import time, queue
 from colorama import Fore, init
